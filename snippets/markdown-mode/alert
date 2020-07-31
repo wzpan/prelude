@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: alert
+# key: alert
+# --
+{% alert ${2:color} %}${1:content}{% endalert %}
+$0

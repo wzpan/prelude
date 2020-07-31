@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: slides
+# key: slides
+# --
+
+{% slides ${1:url} %}$0

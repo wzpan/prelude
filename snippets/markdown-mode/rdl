@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rdl
+# key: rdl
+# --
+<a href="${1:url}" class="btn btn-primary"  target="_blank">${2:description}</a>

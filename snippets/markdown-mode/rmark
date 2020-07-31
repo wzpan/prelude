@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: margin-note-maker
+# key: rmark
+# --
+<span class='margin-note-marker'><sup>$1</sup></span>$0

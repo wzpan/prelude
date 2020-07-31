@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: head
+# key: head
+# --
+#include <stdio.h>
+
+${1:using }
+$0
+
+int main(void)
+{
+    
+    return 0;
+}

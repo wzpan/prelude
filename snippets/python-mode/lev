@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: lev
+# key: lev
+# binding: M-<return>
+# --
+
+${1:elif} ${2:expression}:
+$0

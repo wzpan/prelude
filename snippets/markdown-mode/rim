@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ruhoh-image
+# key: rim
+# --
+
+![${2:title}](/images/`(mfa/get-directory-from-bufname (buffer-file-name))`/${1:$$(yas/choose-value (mfa/yield-choices (buffer-file-name)))})$0
+

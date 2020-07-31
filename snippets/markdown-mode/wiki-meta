@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: wiki-meta
+# key: wm
+# --
+---
+title: "${1:Title}"
+categories: $2
+toc: ${3:true}
+---
+$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: blockquote
+# key: blockquote
+# --
+{% blockquote ${2:author} %}${1:text}{% endblockquote %}

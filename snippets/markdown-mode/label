@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: label
+# key: label
+# --
+
+{% label ${1:content} ${2:success} %}$0

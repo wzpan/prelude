@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: funcm
+# key: funcm
+# --
+/**
+ * ${1:func_name} - ${2:info}
+ * @${3:params}:	${4:info}
+ *
+ * ${5:Some detail information.}
+ *
+ */

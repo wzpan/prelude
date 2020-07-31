@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ph3
+# key: ph3
+# --
+#!/bin/python3
+$0

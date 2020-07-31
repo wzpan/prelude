@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: lb
+# key: lb
+# --
+<span class="label label-info">${1:label}</span>

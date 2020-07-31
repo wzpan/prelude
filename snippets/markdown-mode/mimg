@@ -1,0 +1,4 @@
+# name: margin-note-image
+# key: mimg
+# --
+{% mimg ${2:index} /images/`(mfa/get-directory-from-bufname (buffer-file-name))`/${1:$$(yas/choose-value (mfa/yield-choices (buffer-file-name)))} ${3:text} %}

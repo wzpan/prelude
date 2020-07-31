@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: warn
+# key: warn
+# --
+
+<div class="alert alert-warn">
+<strong>tips</strong>： ${1: content}
+</div>
+
+$0

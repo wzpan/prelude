@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: filein
+# key: filein
+# --
+
+with open("${1:filename}",encoding=${2:"utf-8"}) as ${3:f}:
+    while True:
+        line = ${3:f}.readline()
+        if not line:
+            break
+        print(line, end='')

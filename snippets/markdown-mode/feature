@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: feature
+# key: feature
+# --
+feature: /images/`(mfa/get-directory-from-bufname (buffer-file-name))`/${1:$$(yas/choose-value (mfa/yield-choices (buffer-file-name)))}

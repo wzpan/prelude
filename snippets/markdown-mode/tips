@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: tips
+# key: tips
+# --
+<div class="alert alert-success">
+<strong>tips</strong>： ${1:content}
+</div>
+$0

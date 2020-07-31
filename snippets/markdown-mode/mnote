@@ -1,0 +1,4 @@
+# name: margin-note
+# key: mnote
+# --
+{% mnote ${2:index} %} ${1:text} {% endmnote %}$0

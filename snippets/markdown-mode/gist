@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: gist
+# key: gist
+# --
+{% gist ${1:id} %}$0

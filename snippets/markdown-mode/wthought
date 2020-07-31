@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: wthought
+# key: wthought
+# --
+{% wthought ${4:author} %}${1:content}{% endwthought %}
+$0

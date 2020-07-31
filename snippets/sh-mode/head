@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: shead
+# key: shead
+# --
+#!/bin/sh
+$0
